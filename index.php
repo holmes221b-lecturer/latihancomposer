@@ -1,3 +1,7 @@
-<?php 
-    echo "Hai Composer"
+<?php
+    require_once 'vendor/autoload.php';
+    
+    use Carbon\Carbon;
+
+    echo Carbon::now();
 ?>

@@ -8,6 +8,8 @@
             "email": "coke.classic221b@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+        "nesbot/carbon": "^3.8"
+    },
     "scripts": {"server" : "php -S localhost:8080"}
 }
