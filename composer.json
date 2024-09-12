@@ -1,0 +1,12 @@
+{
+    "name": "cokec/latihancomposer",
+    "description": "Ini latihan composer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Cepi Ramdani",
+            "email": "coke.classic221b@gmail.com"
+        }
+    ],
+    "require": {}
+}
