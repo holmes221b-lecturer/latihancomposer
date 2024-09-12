@@ -9,8 +9,7 @@
         }
     ],
     "require": {
-        "nesbot/carbon": "^3.8",
-        "respect/validation": "^2.3"
+        "nesbot/carbon": "^3.8"
     },
     "scripts": {"server" : "php -S localhost:8080"}
 }
