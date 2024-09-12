@@ -8,5 +8,6 @@
             "email": "coke.classic221b@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "scripts": {"server" : "php -S localhost:8080"}
 }
